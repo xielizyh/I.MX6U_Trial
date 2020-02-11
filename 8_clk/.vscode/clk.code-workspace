@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "/home/xieli/linux/driver/8_clk"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"bsp_clk.h": "c"
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "/home/xieli/linux/driver/9_int"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"bsp_int.h": "c",
+			"bsp_exit.h": "c",
+			"imx6u.h": "c"
+		}
+	}
+}

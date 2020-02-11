@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "/home/xieli/linux/driver/6_beep"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"bsp_beep.h": "c",
+			"bsp_led.h": "c",
+			"bsp_delay.h": "c",
+			"bsp_clk.h": "c",
+			"main.h": "c",
+			"imx6u.h": "c"
+		}
+	}
+}
