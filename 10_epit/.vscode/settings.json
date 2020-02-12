@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "bsp_key.h": "c",
+        "imx6u.h": "c",
+        "xli_err.h": "c",
+        "bsp_gpio.h": "c"
+    }
+}
