@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "/home/xieli/linux/driver/17_i2c"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"bsp_key.h": "c",
+			"imx6u.h": "c",
+			"xli_err.h": "c",
+			"bsp_gpio.h": "c",
+			"bsp_uart.h": "c",
+			"bsp_i2c.h": "c",
+			"core_ca7.h": "c",
+			"bsp_ap3216c.h": "c"
+		}
+	}
+}
